@@ -14,8 +14,6 @@
 <b>Javier Osca</b>                  |                                                              |Jiri Vala</b> 
 e-mail: soqcslib@gmail.com          |                                                              |e-mail: jiri.vala@mu.ie
 Maynooth University                 |                                                              |Maynooth University            
-Tyndall National Institute          |                                                              |
-
 
 # Acknowledgements #
 
